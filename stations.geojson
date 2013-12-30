@@ -1,0 +1,474 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1,
+        "name": "Glasgow Central 1",
+        "location": "Union Street",
+        "comments": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.257068037986755,
+          55.85997483470282
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2,
+        "name": "Glasgow Central 2",
+        "location": "Hope Street"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.258733689785004,
+          55.86032857909663
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 3,
+        "name": "Glasgow Queen Street",
+        "location": "Dundas Street",
+        "comments": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.252189099788666,
+          55.86218003975857
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 4,
+        "name": "Buchanan Street Bus Station 1",
+        "location": "Cowcaddens Road"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.251776039600372,
+          55.865840554302565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 5,
+        "name": "Buchanan Street Bus Station 2",
+        "location": "Killermont Street",
+        "comments": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.252500236034393,
+          55.865047371750144
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 6,
+        "name": "George Square 1",
+        "location": "South Frederick Street"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2493030428886405,
+          55.86073199430394
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 7,
+        "name": "George Square 2",
+        "location": "George Street",
+        "comments": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2490509152412415,
+          55.86134915125347
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 8,
+        "name": "West Nile Street",
+        "location": "",
+        "comments": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.254825711250305,
+          55.86296876530341
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 9,
+        "name": "Glasgow Cathedral",
+        "location": "Cathedral Square",
+        "comments": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.236058294773102,
+          55.862827277548476
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10,
+        "name": "St Enoch Subway Station",
+        "location": "St Enoch Square"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.255152940750122,
+          55.85765358945237
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11,
+        "name": "Glasgow Green 1",
+        "location": "Hockey Stadium",
+        "comments": "CG2014 possible MACH station location"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.235382378101349,
+          55.846079917165746
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12,
+        "name": "Glasgow Green 2",
+        "location": "People's Palace",
+        "comments": "CG2014 possible MACH station location"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.236822724342346,
+          55.85142076636789
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13,
+        "name": "Argyle Street",
+        "location": "Opposite Radisson Hotel",
+        "comments": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.259605407714844,
+          55.85869530680905
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 14,
+        "name": "SECC",
+        "location": "",
+        "comments": "CG2014 possible MACH station location"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.287189245223999,
+          55.86017353407796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 15,
+        "name": "Riverside Museum",
+        "location": "",
+        "comments": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.305830597877502,
+          55.8657577750968
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 16,
+        "name": "Botanic Gardens",
+        "location": "In gardens"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.291926026344299,
+          55.87952679828253
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 17,
+        "name": "Kelvinside Subway Station",
+        "location": "SPT site",
+        "comments": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.279571771621704,
+          55.87423044040547
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 18,
+        "name": "Scotstoun Leisure Centre",
+        "location": "Victoria Park",
+        "comments": "CG2014 possible MACH station location"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.341396689414978,
+          55.88082670296598
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 19,
+        "name": "Kelvingrove Art Gallery 1",
+        "location": "",
+        "comments": "CG2014 possible MACH station location"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.289431571960449,
+          55.86830428371601
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kelvingrove Art Gallery 2",
+        "id": 20,
+        "comments": "CG2014 possible MACH station location"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.291636347770691,
+          55.86899656806888
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 21,
+        "name": "Glasgow University",
+        "location": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.288291633129119,
+          55.87229377918022
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 22,
+        "name": "Partick Interchange",
+        "location": "Interchange Square"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.308445751667023,
+          55.870050020581324
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 23,
+        "name": "Shields Road Park & Ride",
+        "location": "SPT Site"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.274931550025939,
+          55.84998436540288
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 24,
+        "name": "Bellahouston Park",
+        "location": "Community cycle track",
+        "comments": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.323323965072632,
+          55.84519296700789
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 25,
+        "name": "Pollok Country Park",
+        "location": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.3082499504089355,
+          55.829953539172365
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 26,
+        "name": "BBC / STV / Glasgow Science Centre",
+        "location": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.292773604393005,
+          55.85836412801871
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 27,
+        "name": "Hampden Park",
+        "location": "Holyrood Sports Centre",
+        "comments": "CG2014 possible MACH station location"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.249048233032227,
+          55.8321559288536
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 28,
+        "name": "Emirates Arena & Sir Chris Hoy Velodrome",
+        "location": "",
+        "comments": "CG2014 possible MACH station location"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.209641218185425,
+          55.84727101873063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 29,
+        "name": "Tollcross Leisure Centre",
+        "location": "Tollcross Park",
+        "comments": "CG2014 possible MACH station location"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.176928997039795,
+          55.845223084492886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 30,
+        "name": "Dalmarnock Station",
+        "location": "",
+        "comments": "CG2014 possible MACH station location"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.21774685382843,
+          55.84191604525772
+        ]
+      }
+    }
+  ]
+}
