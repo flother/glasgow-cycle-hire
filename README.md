@@ -24,7 +24,7 @@ me as a [tabulated list in a PDF file] [pdf] (included in this repo).
 
 As accessible data goes, that's pretty piss-poor. Humans can read it of
 course, but computers have a much harder job. What if we want to
-show the locations on a map, for example?
+show the locations on a map, for example? Or find your nearest stop?
 
 There are much better ways to provide the data. This Git repository
 contains each location as a latitude and longitude point, all stored in
