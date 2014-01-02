@@ -22,7 +22,8 @@
       "properties": {
         "id": 2,
         "name": "Glasgow Central 2",
-        "location": "Hope Street"
+        "location": "Hope Street",
+        "comments": ""
       },
       "geometry": {
         "type": "Point",
@@ -53,7 +54,8 @@
       "properties": {
         "id": 4,
         "name": "Buchanan Street Bus Station 1",
-        "location": "Cowcaddens Road"
+        "location": "Cowcaddens Road",
+        "comments": ""
       },
       "geometry": {
         "type": "Point",
@@ -84,7 +86,8 @@
       "properties": {
         "id": 6,
         "name": "George Square 1",
-        "location": "South Frederick Street"
+        "location": "South Frederick Street",
+        "comments": ""
       },
       "geometry": {
         "type": "Point",
@@ -147,7 +150,8 @@
       "properties": {
         "id": 10,
         "name": "St Enoch Subway Station",
-        "location": "St Enoch Square"
+        "location": "St Enoch Square",
+        "comments": ""
       },
       "geometry": {
         "type": "Point",
@@ -242,7 +246,8 @@
       "properties": {
         "id": 16,
         "name": "Botanic Gardens",
-        "location": "In gardens"
+        "location": "In gardens",
+        "comments": ""
       },
       "geometry": {
         "type": "Point",
@@ -320,7 +325,8 @@
       "properties": {
         "id": 21,
         "name": "Glasgow University",
-        "location": ""
+        "location": "",
+        "comments": ""
       },
       "geometry": {
         "type": "Point",
@@ -335,7 +341,8 @@
       "properties": {
         "id": 22,
         "name": "Partick Interchange",
-        "location": "Interchange Square"
+        "location": "Interchange Square",
+        "comments": ""
       },
       "geometry": {
         "type": "Point",
@@ -350,7 +357,8 @@
       "properties": {
         "id": 23,
         "name": "Shields Road Park & Ride",
-        "location": "SPT Site"
+        "location": "SPT Site",
+        "comments": ""
       },
       "geometry": {
         "type": "Point",
@@ -381,7 +389,8 @@
       "properties": {
         "id": 25,
         "name": "Pollok Country Park",
-        "location": ""
+        "location": "",
+        "comments": ""
       },
       "geometry": {
         "type": "Point",
@@ -396,7 +405,8 @@
       "properties": {
         "id": 26,
         "name": "BBC / STV / Glasgow Science Centre",
-        "location": ""
+        "location": "",
+        "comments": ""
       },
       "geometry": {
         "type": "Point",
