@@ -30,9 +30,10 @@ There are much better ways to provide the data. This Git repository
 contains each location as a latitude and longitude point, all stored in
 a single [GeoJSON] [geo] file encapsulated in the Open Knowledge
 Foundation's [Data Package format] [pkg]. GitHub allows GeoJSON files to
-be [displayed as a map directly] [ghm] and I've also made [a full-screen
-map] [map]. Providing the locations in this format makes them more
-accessible, more visible, and easier to analyse.
+be [displayed as a map directly] [ghm] and I've also made
+quick-and-dirty [a full-screen map] [map]. Providing the locations in
+this format makes them more accessible, more visible, and easier to
+analyse.
 
 
 Converting the locations to latitude/longitude points
@@ -101,7 +102,7 @@ that had caused the delay. I'm a programmer, I understand these things
 can happen. (I would have preferred a more detailed reason though.)
 
 
-[map]: http://flother.is/2014/glasgow-bike-hire/
+[map]: http://bl.ocks.org/flother/raw/8185796/
 [rpt]: http://www.glasgow.gov.uk/councillorsandcommittees/submissiondocuments.asp?submissionid=65178
 [pdf]: http://github.com/flother/glasgow-cycle-hire/raw/master/foi_station_list.pdf
 [geo]: http://geojson.org/
