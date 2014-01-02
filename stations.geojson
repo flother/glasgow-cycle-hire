@@ -53,7 +53,7 @@
       "type": "Feature",
       "properties": {
         "id": 4,
-        "name": "Buchanan Street Bus Station 1",
+        "name": "Buchanan Bus Station 1",
         "location": "Cowcaddens Road",
         "comments": ""
       },
@@ -69,7 +69,7 @@
       "type": "Feature",
       "properties": {
         "id": 5,
-        "name": "Buchanan Street Bus Station 2",
+        "name": "Buchanan Bus Station 2",
         "location": "Killermont Street",
         "comments": ""
       },
