@@ -6,11 +6,11 @@ for hire] [map].*
 ---
 
 In the spring of 2014 Glasgow City Council will be launching MACH — mass
-automated cycle hire — first with 150 bikes and 30 stations with
-expansion coming later in the year. The details have been lightly
-reported in the press but a more thorough report was presented to the
-city council on 10 October 2013. The [report is available on the city
-council's website] [rpt].
+automated cycle hire — 150 bikes and 30 stations at first with expansion
+coming later in the year. The details have been lightly reported in the
+press but a more thorough report was presented to the city council on
+10 October 2013. The [report is available on the city council's website]
+[rpt].
 
 The appendices to that report included a low-resolution map of locations
 where bikes will be available to hire, but exactly where they are to be
@@ -19,7 +19,7 @@ this report contains an index to the numbered locations", but appendix 3
 is actually just a picture of a bike.
 
 So I did what any grown man would do in the circumstances and made a
-freedom of information request. The locations were eventually given to
+Freedom of Information request. The locations were eventually given to
 me as a [tabulated list in a PDF file] [pdf] (included in this repo).
 
 As accessible data goes, that's pretty piss-poor. Humans can read it of
@@ -30,22 +30,23 @@ There are much better ways to provide the data. This Git repository
 contains each location as a latitude and longitude point, all stored in
 a single [GeoJSON] [geo] file encapsulated in the Open Knowledge
 Foundation's [Data Package format] [pkg]. GitHub allows GeoJSON files to
-be [displayed as a map directly] [ghm] and I've also made
-quick-and-dirty [a full-screen map] [map]. Providing the locations in
+be [displayed as a map directly] [ghm] and I've also made a
+quick-and-dirty [full-screen map] [map]. Providing the locations in
 this format makes them more accessible, more visible, and easier to
 analyse.
 
 
-Converting the locations to latitude/longitude points
------------------------------------------------------
+Location accuracy
+-----------------
 
 None of the locations given by the council are exact, but they vary
 between relatively precise ("SPT site" at Kelvinbridge subway station)
 and fairly vague (somewhere on the half-a-mile-long West Nile Street).
 Where the locations were too vague to plot I used the low-resolution map
 included in the report to try and pinpoint the true locations as best I
-could. I would estimate the council's provisional locations are at worst
-no further than 200 metres from my longitude and latitude points.
+could. I would estimate a longitude/latitude point is at worst no
+further than 200 metres from where the council expects to site the
+station.
 
 
 Commonwealth Games locations
@@ -96,10 +97,11 @@ My original request, dated 14 October 2013:
 > locations under the Freedom of Information (Scotland) Act 2002.
 
 The council's response, due no more than 20 working days later, came
-after 42 working days on 11 December 2013 accompanied with apologies and
-the promise that an internal review had fixed the "technical oversight"
-that had caused the delay. I'm a programmer, I understand these things
-can happen. (I would have preferred a more detailed reason though.)
+after 42 working days on 11 December 2013, accompanied with apologies
+and the promise that an internal review had fixed the "technical
+oversight" that had caused the delay. I'm a programmer, I understand
+these things can happen — I would have preferred a more detailed reason
+though.
 
 
 [map]: http://bl.ocks.org/flother/raw/8185796/
