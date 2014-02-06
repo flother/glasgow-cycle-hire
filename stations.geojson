@@ -5,9 +5,9 @@
       "type": "Feature",
       "properties": {
         "id": 1,
-        "name": "Glasgow Central 1",
-        "location": "Union Street",
-        "comments": ""
+        "title": "Glasgow Central 1",
+        "description": "Glasgow Central 1, Union Street",
+        "marker-symbol": "bicycle"
       },
       "geometry": {
         "type": "Point",
@@ -21,9 +21,9 @@
       "type": "Feature",
       "properties": {
         "id": 2,
-        "name": "Glasgow Central 2",
-        "location": "Hope Street",
-        "comments": ""
+        "title": "Glasgow Central 2",
+        "description": "Glasgow Central 2, Hope Street",
+        "marker-symbol": "bicycle"
       },
       "geometry": {
         "type": "Point",
@@ -37,9 +37,9 @@
       "type": "Feature",
       "properties": {
         "id": 3,
-        "name": "Glasgow Queen Street",
-        "location": "Dundas Street",
-        "comments": ""
+        "title": "Glasgow Queen Street Station",
+        "description": "Glasgow Queen Street Station, Dundas Street",
+        "marker-symbol": "bicycle"
       },
       "geometry": {
         "type": "Point",
@@ -53,9 +53,9 @@
       "type": "Feature",
       "properties": {
         "id": 4,
-        "name": "Buchanan Bus Station 1",
-        "location": "Cowcaddens Road",
-        "comments": ""
+        "title": "Buchanan Bus Station 1",
+        "description": "Buchanan Bus Station 1, Cowcaddens Road",
+        "marker-symbol": "bicycle"
       },
       "geometry": {
         "type": "Point",
@@ -69,9 +69,9 @@
       "type": "Feature",
       "properties": {
         "id": 5,
-        "name": "Buchanan Bus Station 2",
-        "location": "Killermont Street",
-        "comments": ""
+        "title": "Buchanan Bus Station 2",
+        "description": "Buchanan Bus Station 2, Killermont Street",
+        "marker-symbol": "bicycle"
       },
       "geometry": {
         "type": "Point",
@@ -85,9 +85,9 @@
       "type": "Feature",
       "properties": {
         "id": 6,
-        "name": "George Square 1",
-        "location": "South Frederick Street",
-        "comments": ""
+        "title": "George Square 1",
+        "description": "George Square 1, South Frederick Street",
+        "marker-symbol": "bicycle"
       },
       "geometry": {
         "type": "Point",
@@ -101,9 +101,9 @@
       "type": "Feature",
       "properties": {
         "id": 7,
-        "name": "George Square 2",
-        "location": "George Street",
-        "comments": ""
+        "title": "George Square 2",
+        "description": "George Square 2, George Street",
+        "marker-symbol": "bicycle"
       },
       "geometry": {
         "type": "Point",
@@ -117,9 +117,8 @@
       "type": "Feature",
       "properties": {
         "id": 8,
-        "name": "West Nile Street",
-        "location": "",
-        "comments": ""
+        "title": "West Nile Street",
+        "marker-symbol": "bicycle"
       },
       "geometry": {
         "type": "Point",
@@ -133,9 +132,9 @@
       "type": "Feature",
       "properties": {
         "id": 9,
-        "name": "Glasgow Cathedral",
-        "location": "Cathedral Square",
-        "comments": ""
+        "title": "Glasgow Cathedral",
+        "description": "Glasgow Cathedral, Cathedral Square",
+        "marker-symbol": "bicycle"
       },
       "geometry": {
         "type": "Point",
@@ -149,9 +148,9 @@
       "type": "Feature",
       "properties": {
         "id": 10,
-        "name": "St Enoch Subway Station",
-        "location": "St Enoch Square",
-        "comments": ""
+        "title": "St Enoch Subway Station",
+        "description": "St Enoch Subway Station, St Enoch Square",
+        "marker-symbol": "bicycle"
       },
       "geometry": {
         "type": "Point",
@@ -165,9 +164,9 @@
       "type": "Feature",
       "properties": {
         "id": 11,
-        "name": "Glasgow Green 1",
-        "location": "Hockey Stadium",
-        "comments": "CG2014 possible MACH station location"
+        "title": "Glasgow Green 1",
+        "description": "Glasgow Green 1, Hockey Stadium (CG2014 possible MACH station location)",
+        "marker-symbol": "bicycle"
       },
       "geometry": {
         "type": "Point",
@@ -181,9 +180,9 @@
       "type": "Feature",
       "properties": {
         "id": 12,
-        "name": "Glasgow Green 2",
-        "location": "People's Palace",
-        "comments": "CG2014 possible MACH station location"
+        "title": "Glasgow Green 2",
+        "description": "Glasgow Green 2, People's Palace (CG2014 possible MACH station location)",
+        "marker-symbol": "bicycle"
       },
       "geometry": {
         "type": "Point",
@@ -197,9 +196,9 @@
       "type": "Feature",
       "properties": {
         "id": 13,
-        "name": "Argyle Street",
-        "location": "Opposite Radisson Hotel",
-        "comments": ""
+        "title": "Argyle Street",
+        "description": "Argyle Street, opposite Radisson Hotel",
+        "marker-symbol": "bicycle"
       },
       "geometry": {
         "type": "Point",
@@ -213,9 +212,9 @@
       "type": "Feature",
       "properties": {
         "id": 14,
-        "name": "SECC",
-        "location": "",
-        "comments": "CG2014 possible MACH station location"
+        "title": "SECC",
+        "description": "SECC (CG2014 possible MACH station location)",
+        "marker-symbol": "bicycle"
       },
       "geometry": {
         "type": "Point",
@@ -229,9 +228,8 @@
       "type": "Feature",
       "properties": {
         "id": 15,
-        "name": "Riverside Museum",
-        "location": "",
-        "comments": ""
+        "title": "Riverside Museum",
+        "marker-symbol": "bicycle"
       },
       "geometry": {
         "type": "Point",
@@ -245,9 +243,9 @@
       "type": "Feature",
       "properties": {
         "id": 16,
-        "name": "Botanic Gardens",
-        "location": "In gardens",
-        "comments": ""
+        "title": "Botanic Gardens",
+        "description": "Botanic Gardens, in gardens",
+        "marker-symbol": "bicycle"
       },
       "geometry": {
         "type": "Point",
@@ -261,9 +259,9 @@
       "type": "Feature",
       "properties": {
         "id": 17,
-        "name": "Kelvinside Subway Station",
-        "location": "SPT site",
-        "comments": ""
+        "title": "Kelvinside Subway Station",
+        "description": "Kelvinside Subway Station, SPT site",
+        "marker-symbol": "bicycle"
       },
       "geometry": {
         "type": "Point",
@@ -277,9 +275,9 @@
       "type": "Feature",
       "properties": {
         "id": 18,
-        "name": "Scotstoun Leisure Centre",
-        "location": "Victoria Park",
-        "comments": "CG2014 possible MACH station location"
+        "title": "Scotstoun Leisure Centre",
+        "description": "Scotstoun Leisure Centre, Victoria Park (CG2014 possible MACH station location)",
+        "marker-symbol": "bicycle"
       },
       "geometry": {
         "type": "Point",
@@ -293,9 +291,9 @@
       "type": "Feature",
       "properties": {
         "id": 19,
-        "name": "Kelvingrove Art Gallery 1",
-        "location": "",
-        "comments": "CG2014 possible MACH station location"
+        "title": "Kelvingrove Art Gallery 1",
+        "description": "Kelvingrove Art Gallery 1 (CG2014 possible MACH station location)",
+        "marker-symbol": "bicycle"
       },
       "geometry": {
         "type": "Point",
@@ -308,9 +306,10 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Kelvingrove Art Gallery 2",
         "id": 20,
-        "comments": "CG2014 possible MACH station location"
+        "title": "Kelvingrove Art Gallery 2",
+        "description": "Kelvingrove Art Gallery 2 (CG2014 possible MACH station location)",
+        "marker-symbol": "bicycle"
       },
       "geometry": {
         "type": "Point",
@@ -324,9 +323,8 @@
       "type": "Feature",
       "properties": {
         "id": 21,
-        "name": "Glasgow University",
-        "location": "",
-        "comments": ""
+        "title": "Glasgow University",
+        "marker-symbol": "bicycle"
       },
       "geometry": {
         "type": "Point",
@@ -340,9 +338,9 @@
       "type": "Feature",
       "properties": {
         "id": 22,
-        "name": "Partick Interchange",
-        "location": "Interchange Square",
-        "comments": ""
+        "title": "Partick Interchange",
+        "description": "Partick Interchange, Interchange Square",
+        "marker-symbol": "bicycle"
       },
       "geometry": {
         "type": "Point",
@@ -356,9 +354,9 @@
       "type": "Feature",
       "properties": {
         "id": 23,
-        "name": "Shields Road Park & Ride",
-        "location": "SPT Site",
-        "comments": ""
+        "title": "Shields Road Park & Ride",
+        "description": "Shields Road Park & Ride, SPT Site",
+        "marker-symbol": "bicycle"
       },
       "geometry": {
         "type": "Point",
@@ -372,9 +370,9 @@
       "type": "Feature",
       "properties": {
         "id": 24,
-        "name": "Bellahouston Park",
-        "location": "Community cycle track",
-        "comments": ""
+        "title": "Bellahouston Park",
+        "description": "Bellahouston Park, community cycle track",
+        "marker-symbol": "bicycle"
       },
       "geometry": {
         "type": "Point",
@@ -388,9 +386,8 @@
       "type": "Feature",
       "properties": {
         "id": 25,
-        "name": "Pollok Country Park",
-        "location": "",
-        "comments": ""
+        "title": "Pollok Country Park",
+        "marker-symbol": "bicycle"
       },
       "geometry": {
         "type": "Point",
@@ -404,9 +401,8 @@
       "type": "Feature",
       "properties": {
         "id": 26,
-        "name": "BBC / STV / Glasgow Science Centre",
-        "location": "",
-        "comments": ""
+        "title": "BBC / STV / Glasgow Science Centre",
+        "marker-symbol": "bicycle"
       },
       "geometry": {
         "type": "Point",
@@ -420,9 +416,9 @@
       "type": "Feature",
       "properties": {
         "id": 27,
-        "name": "Hampden Park",
-        "location": "Holyrood Sports Centre",
-        "comments": "CG2014 possible MACH station location"
+        "title": "Hampden Park",
+        "description": "Hampden Park, Holyrood Sports Centre (CG2014 possible MACH station location)",
+        "marker-symbol": "bicycle"
       },
       "geometry": {
         "type": "Point",
@@ -436,9 +432,9 @@
       "type": "Feature",
       "properties": {
         "id": 28,
-        "name": "Emirates Arena & Sir Chris Hoy Velodrome",
-        "location": "",
-        "comments": "CG2014 possible MACH station location"
+        "title": "Emirates Arena & Sir Chris Hoy Velodrome",
+        "description": "Emirates Arena & Sir Chris Hoy Velodrome (CG2014 possible MACH station location)",
+        "marker-symbol": "bicycle"
       },
       "geometry": {
         "type": "Point",
@@ -452,9 +448,9 @@
       "type": "Feature",
       "properties": {
         "id": 29,
-        "name": "Tollcross Leisure Centre",
-        "location": "Tollcross Park",
-        "comments": "CG2014 possible MACH station location"
+        "title": "Tollcross Leisure Centre",
+        "description": "Tollcross Leisure Centre, Tollcross Park (CG2014 possible MACH station location)",
+        "marker-symbol": "bicycle"
       },
       "geometry": {
         "type": "Point",
@@ -468,9 +464,9 @@
       "type": "Feature",
       "properties": {
         "id": 30,
-        "name": "Dalmarnock Station",
-        "location": "",
-        "comments": "CG2014 possible MACH station location"
+        "title": "Dalmarnock Station",
+        "description": "Dalmarnock Station (CG2014 possible MACH station location)",
+        "marker-symbol": "bicycle"
       },
       "geometry": {
         "type": "Point",
