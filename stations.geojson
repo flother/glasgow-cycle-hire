@@ -5,15 +5,16 @@
       "type": "Feature",
       "properties": {
         "id": 1,
-        "title": "Glasgow Central 1",
-        "description": "Glasgow Central 1, Union Street",
-        "marker-symbol": "bicycle"
+        "title": "Glasgow Central station",
+        "nearest-address": "107 Hope Street",
+        "ward": "Anderston / City",
+        "permanent": true
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.257068037986755,
-          55.85997483470282
+          -4.258785,
+          55.860697
         ]
       }
     },
@@ -21,15 +22,16 @@
       "type": "Feature",
       "properties": {
         "id": 2,
-        "title": "Glasgow Central 2",
-        "description": "Glasgow Central 2, Hope Street",
-        "marker-symbol": "bicycle"
+        "title": "Waterloo Street",
+        "nearest-address": "76 Waterloo Street",
+        "ward": "Anderston / City",
+        "permanent": true
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.258733689785004,
-          55.86032857909663
+          -4.263546,
+          55.860613
         ]
       }
     },
@@ -37,15 +39,16 @@
       "type": "Feature",
       "properties": {
         "id": 3,
-        "title": "Glasgow Queen Street Station",
-        "description": "Glasgow Queen Street Station, Dundas Street",
-        "marker-symbol": "bicycle"
+        "title": "Glasgow Queen Street station",
+        "nearest-address": "1 Dundas Street",
+        "ward": "Anderston / City",
+        "permanent": true
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.252189099788666,
-          55.86218003975857
+          -4.252233,
+          55.861869
         ]
       }
     },
@@ -53,15 +56,16 @@
       "type": "Feature",
       "properties": {
         "id": 4,
-        "title": "Buchanan Bus Station 1",
-        "description": "Buchanan Bus Station 1, Cowcaddens Road",
-        "marker-symbol": "bicycle"
+        "title": "Buchanan Bus Station",
+        "nearest-address": "10 Killermont Street",
+        "ward": "Anderston / City",
+        "permanent": true
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.251776039600372,
-          55.865840554302565
+          -4.25248,
+          55.864979
         ]
       }
     },
@@ -69,15 +73,16 @@
       "type": "Feature",
       "properties": {
         "id": 5,
-        "title": "Buchanan Bus Station 2",
-        "description": "Buchanan Bus Station 2, Killermont Street",
-        "marker-symbol": "bicycle"
+        "title": "Glasgow Caledonian University",
+        "nearest-address": "70 Cowcaddens Road",
+        "ward": "Anderston / City",
+        "permanent": true
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.252500236034393,
-          55.865047371750144
+          -4.24972,
+          55.866155
         ]
       }
     },
@@ -85,15 +90,16 @@
       "type": "Feature",
       "properties": {
         "id": 6,
-        "title": "George Square 1",
-        "description": "George Square 1, South Frederick Street",
-        "marker-symbol": "bicycle"
+        "title": "George Square",
+        "nearest-address": "50 West George Street",
+        "ward": "Anderston / City",
+        "permanent": true
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.2493030428886405,
-          55.86073199430394
+          -4.25106,
+          55.861571
         ]
       }
     },
@@ -101,15 +107,16 @@
       "type": "Feature",
       "properties": {
         "id": 7,
-        "title": "George Square 2",
-        "description": "George Square 2, George Street",
-        "marker-symbol": "bicycle"
+        "title": "Merchant Square",
+        "nearest-address": "20 Bell Street",
+        "ward": "Anderston / City",
+        "permanent": true
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.2490509152412415,
-          55.86134915125347
+          -4.245331,
+          55.858136
         ]
       }
     },
@@ -117,14 +124,16 @@
       "type": "Feature",
       "properties": {
         "id": 8,
-        "title": "West Nile Street",
-        "marker-symbol": "bicycle"
+        "title": "St George's Cross",
+        "nearest-address": "98 Great Western Road",
+        "ward": "Hillhead",
+        "permanent": true
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.254825711250305,
-          55.86296876530341
+          -4.269653,
+          55.871525
         ]
       }
     },
@@ -133,14 +142,15 @@
       "properties": {
         "id": 9,
         "title": "Glasgow Cathedral",
-        "description": "Glasgow Cathedral, Cathedral Square",
-        "marker-symbol": "bicycle"
+        "nearest-address": "20 Cathedral Street",
+        "ward": "Anderston / City",
+        "permanent": true
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.236058294773102,
-          55.862827277548476
+          -4.237244,
+          55.863043
         ]
       }
     },
@@ -148,15 +158,16 @@
       "type": "Feature",
       "properties": {
         "id": 10,
-        "title": "St Enoch Subway Station",
-        "description": "St Enoch Subway Station, St Enoch Square",
-        "marker-symbol": "bicycle"
+        "title": "St Enoch Square",
+        "nearest-address": "14 St Enoch Square",
+        "ward": "Anderston / City",
+        "permanent": true
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.255152940750122,
-          55.85765358945237
+          -4.255429,
+          55.857779
         ]
       }
     },
@@ -164,15 +175,16 @@
       "type": "Feature",
       "properties": {
         "id": 11,
-        "title": "Glasgow Green 1",
-        "description": "Glasgow Green 1, Hockey Stadium (CG2014 possible MACH station location)",
-        "marker-symbol": "bicycle"
+        "title": "Arygle Street Station",
+        "nearest-address": "47 Argyle Street",
+        "ward": "Anderston / City",
+        "permanent": true
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.235382378101349,
-          55.846079917165746
+          -4.250413,
+          55.857571
         ]
       }
     },
@@ -180,15 +192,16 @@
       "type": "Feature",
       "properties": {
         "id": 12,
-        "title": "Glasgow Green 2",
-        "description": "Glasgow Green 2, People's Palace (CG2014 possible MACH station location)",
-        "marker-symbol": "bicycle"
+        "title": "Glasgow Green",
+        "nearest-address": "82 Templeton Street",
+        "ward": "Calton",
+        "permanent": true
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.236822724342346,
-          55.85142076636789
+          -4.233226,
+          55.849284
         ]
       }
     },
@@ -196,15 +209,16 @@
       "type": "Feature",
       "properties": {
         "id": 13,
-        "title": "Argyle Street",
-        "description": "Argyle Street, opposite Radisson Hotel",
-        "marker-symbol": "bicycle"
+        "title": "Broomielaw",
+        "nearest-address": "150 Broomielaw (5 Atlantic Quay)",
+        "ward": "Anderston / City",
+        "permanent": true
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.259605407714844,
-          55.85869530680905
+          -4.264546,
+          55.856689
         ]
       }
     },
@@ -213,14 +227,15 @@
       "properties": {
         "id": 14,
         "title": "SECC",
-        "description": "SECC (CG2014 possible MACH station location)",
-        "marker-symbol": "bicycle"
+        "nearest-address": "10 Congress Way",
+        "ward": "Anderston / City",
+        "permanent": false
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.287189245223999,
-          55.86017353407796
+          -4.283745,
+          55.858753
         ]
       }
     },
@@ -228,14 +243,16 @@
       "type": "Feature",
       "properties": {
         "id": 15,
-        "title": "Riverside Museum",
-        "marker-symbol": "bicycle"
+        "title": "S.E.C.C / Armadillo / Hydro Arena",
+        "nearest-address": "1 Congress Road",
+        "ward": "Anderston / City",
+        "permanent": true
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.305830597877502,
-          55.8657577750968
+          -4.28705,
+          55.859117
         ]
       }
     },
@@ -243,15 +260,16 @@
       "type": "Feature",
       "properties": {
         "id": 16,
-        "title": "Botanic Gardens",
-        "description": "Botanic Gardens, in gardens",
-        "marker-symbol": "bicycle"
+        "title": "Riverside Museum",
+        "nearest-address": "100 Pointhouse Road",
+        "ward": "Anderston / City",
+        "permanent": true
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.291926026344299,
-          55.87952679828253
+          -4.305546,
+          55.865659
         ]
       }
     },
@@ -259,15 +277,16 @@
       "type": "Feature",
       "properties": {
         "id": 17,
-        "title": "Kelvinside Subway Station",
-        "description": "Kelvinside Subway Station, SPT site",
-        "marker-symbol": "bicycle"
+        "title": "Botanic Gardens",
+        "nearest-address": "735 Great Western Road",
+        "ward": "Maryhill / Kelvin",
+        "permanent": true
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.279571771621704,
-          55.87423044040547
+          -4.289453,
+          55.877851
         ]
       }
     },
@@ -275,15 +294,16 @@
       "type": "Feature",
       "properties": {
         "id": 18,
-        "title": "Scotstoun Leisure Centre",
-        "description": "Scotstoun Leisure Centre, Victoria Park (CG2014 possible MACH station location)",
-        "marker-symbol": "bicycle"
+        "title": "Kelvinbridge subway station",
+        "nearest-address": "445 Great Western Road",
+        "ward": "Hillhead",
+        "permanent": true
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.341396689414978,
-          55.88082670296598
+          -4.280473,
+          55.874888
         ]
       }
     },
@@ -291,15 +311,16 @@
       "type": "Feature",
       "properties": {
         "id": 19,
-        "title": "Kelvingrove Art Gallery 1",
-        "description": "Kelvingrove Art Gallery 1 (CG2014 possible MACH station location)",
-        "marker-symbol": "bicycle"
+        "title": "Scotstoun Leisure Centre",
+        "nearest-address": "84 Victoria Park Drive North",
+        "ward": "Partick West",
+        "permanent": false
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.289431571960449,
-          55.86830428371601
+          -4.337239,
+          55.878363
         ]
       }
     },
@@ -307,15 +328,16 @@
       "type": "Feature",
       "properties": {
         "id": 20,
-        "title": "Kelvingrove Art Gallery 2",
-        "description": "Kelvingrove Art Gallery 2 (CG2014 possible MACH station location)",
-        "marker-symbol": "bicycle"
+        "title": "Kelvingrove Art Gallery",
+        "nearest-address": "1 Kelvingrove Park",
+        "ward": "Anderston / City",
+        "permanent": true
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.291636347770691,
-          55.86899656806888
+          -4.289399,
+          55.868342
         ]
       }
     },
@@ -323,14 +345,16 @@
       "type": "Feature",
       "properties": {
         "id": 21,
-        "title": "Glasgow University",
-        "marker-symbol": "bicycle"
+        "title": "Charing Cross station",
+        "nearest-address": "34 Elmbank Crescent",
+        "ward": "Anderston / City",
+        "permanent": true
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.288291633129119,
-          55.87229377918022
+          -4.270071,
+          55.86456
         ]
       }
     },
@@ -338,15 +362,16 @@
       "type": "Feature",
       "properties": {
         "id": 22,
-        "title": "Partick Interchange",
-        "description": "Partick Interchange, Interchange Square",
-        "marker-symbol": "bicycle"
+        "title": "University of Glasgow (West)",
+        "nearest-address": "121 University Avenue",
+        "ward": "Hillhead",
+        "permanent": true
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.308445751667023,
-          55.870050020581324
+          -4.292688,
+          55.87282
         ]
       }
     },
@@ -354,15 +379,16 @@
       "type": "Feature",
       "properties": {
         "id": 23,
-        "title": "Shields Road Park & Ride",
-        "description": "Shields Road Park & Ride, SPT Site",
-        "marker-symbol": "bicycle"
+        "title": "Partick Interchange",
+        "nearest-address": "1 Merkland Court",
+        "ward": "Partick West",
+        "permanent": true
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.274931550025939,
-          55.84998436540288
+          -4.308271,
+          55.869903
         ]
       }
     },
@@ -370,15 +396,16 @@
       "type": "Feature",
       "properties": {
         "id": 24,
-        "title": "Bellahouston Park",
-        "description": "Bellahouston Park, community cycle track",
-        "marker-symbol": "bicycle"
+        "title": "University of Strathclyde (North)",
+        "nearest-address": "1 Taylor Street",
+        "ward": "Anderston / City",
+        "permanent": true
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.323323965072632,
-          55.84519296700789
+          -4.240857,
+          55.862991
         ]
       }
     },
@@ -386,14 +413,16 @@
       "type": "Feature",
       "properties": {
         "id": 25,
-        "title": "Pollok Country Park",
-        "marker-symbol": "bicycle"
+        "title": "Mitchell Library",
+        "nearest-address": "17 North Street",
+        "ward": "Anderston / City",
+        "permanent": true
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.3082499504089355,
-          55.829953539172365
+          -4.271917,
+          55.866026
         ]
       }
     },
@@ -401,14 +430,16 @@
       "type": "Feature",
       "properties": {
         "id": 26,
-        "title": "BBC / STV / Glasgow Science Centre",
-        "marker-symbol": "bicycle"
+        "title": "Glasgow Science Centre",
+        "nearest-address": "50 Pacific Quay",
+        "ward": "Govan",
+        "permanent": true
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.292773604393005,
-          55.85836412801871
+          -4.292959,
+          55.858432
         ]
       }
     },
@@ -417,14 +448,15 @@
       "properties": {
         "id": 27,
         "title": "Hampden Park",
-        "description": "Hampden Park, Holyrood Sports Centre (CG2014 possible MACH station location)",
-        "marker-symbol": "bicycle"
+        "nearest-address": "Holyrood High School",
+        "ward": "Langside",
+        "permanent": false
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.249048233032227,
-          55.8321559288536
+          -4.248732,
+          55.832401
         ]
       }
     },
@@ -432,15 +464,16 @@
       "type": "Feature",
       "properties": {
         "id": 28,
-        "title": "Emirates Arena & Sir Chris Hoy Velodrome",
-        "description": "Emirates Arena & Sir Chris Hoy Velodrome (CG2014 possible MACH station location)",
-        "marker-symbol": "bicycle"
+        "title": "Emirates Area",
+        "nearest-address": "1000 London Road",
+        "ward": "Calton",
+        "permanent": true
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.209641218185425,
-          55.84727101873063
+          -4.20911,
+          55.845995
         ]
       }
     },
@@ -449,14 +482,15 @@
       "properties": {
         "id": 29,
         "title": "Tollcross Leisure Centre",
-        "description": "Tollcross Leisure Centre, Tollcross Park (CG2014 possible MACH station location)",
-        "marker-symbol": "bicycle"
+        "nearest-address": "1000 London Road",
+        "ward": "Shettleston",
+        "permanent": false
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.176928997039795,
-          55.845223084492886
+          -4.180142,
+          55.846219
         ]
       }
     },
@@ -464,15 +498,135 @@
       "type": "Feature",
       "properties": {
         "id": 30,
-        "title": "Dalmarnock Station",
-        "description": "Dalmarnock Station (CG2014 possible MACH station location)",
-        "marker-symbol": "bicycle"
+        "title": "Gallery of Modern Art",
+        "nearest-address": "Royal Exchange Square",
+        "ward": "Anderston / City",
+        "permanent": true
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.21774685382843,
-          55.84191604525772
+          -4.252034,
+          55.860261
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 31,
+        "title": "Trongate",
+        "nearest-address": "30 Saltmarket",
+        "ward": "Anderston / City",
+        "permanent": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.244676,
+          55.856091
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 32,
+        "title": "Bridge Street Subway",
+        "nearest-address": "141 Norfolk Street",
+        "ward": "Southside Central",
+        "permanent": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.258684,
+          55.851995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 33,
+        "title": "University of Strathclyde (South)",
+        "nearest-address": "130 George Street",
+        "ward": "Anderston / City",
+        "permanent": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.244919,
+          55.860988
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 34,
+        "title": "Hillhead subway station",
+        "nearest-address": "1 Ashton Road",
+        "ward": "Hillhead",
+        "permanent": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.294365,
+          55.874408
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 35,
+        "title": "University of Glasgow (East)",
+        "nearest-address": "264 Woodlands Road",
+        "ward": "Hillhead",
+        "permanent": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.277297,
+          55.871501
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 36,
+        "title": "Cathkin Braes MBC",
+        "nearest-address": "227 Castlemilk Drive",
+        "ward": "Linn",
+        "permanent": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.231592,
+          55.800682
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 37,
+        "title": "Ibrox Stadium",
+        "nearest-address": "67 Woodville Street",
+        "ward": "Govan",
+        "permanent": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.304535,
+          55.854547
         ]
       }
     }
