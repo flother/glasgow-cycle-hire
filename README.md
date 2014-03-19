@@ -1,71 +1,60 @@
 *A bike hire scheme similar to that found in London, Paris, and other
 European cities is coming to Scotland's largest city, Glasgow. I've made
-[a map showing the places provisionally marked as having bikes available
-for hire] [map].*
+[a map showing the proposed locations of bike hire stations] [map].*
 
 ---
 
-In the spring of 2014 Glasgow City Council will be launching MACH — mass
-automated cycle hire — 150 bikes and 30 stations at first with expansion
-coming later in the year. The details have been lightly reported in the
-press but a more thorough report was presented to the city council on
-10 October 2013. The [report is available on the city council's website]
-[rpt].
+In May 2014 Glasgow City Council will be launching MACH — mass
+automated cycle hire — 400 bikes and 31 stations, with an extra six
+stations during the Commonwealth Games. Details have slowly been
+filtering out, starting with a [report presented to the city council's
+Executive Committee on 10 October 2013] [oct] and followed by a [second
+report on 19 March 2014 to the Sustainability and the Environment Policy
+Development Committee] [mar].
 
-The appendices to that report included a low-resolution map of locations
-where bikes will be available to hire, but exactly where they are to be
-was hard to discern. The map is accompanied by the text "Appendix 3 to
-this report contains an index to the numbered locations", but appendix 3
-is actually just a picture of a bike.
+The appendices to the first report included a low-resolution map of
+where bikes were to be available to hire, but exactly where was hard to
+discern. Eventually a Freedom of Information request got me the
+locations as a [tabulated list in a PDF file] [pdf] (included in this
+repo, although the locations have since changed).
 
-So I did what any grown man would do in the circumstances and made a
-Freedom of Information request. The locations were eventually given to
-me as a [tabulated list in a PDF file] [pdf] (included in this repo).
+The second report included much improved details on the locations,
+including a higher-resolution raster map and a list of the nearest
+street address for each location. It's still pretty piss-poor as
+accessible data goes, and this Git repository attempts to make a better
+job of it.
 
-As accessible data goes, that's pretty piss-poor. Humans can read it of
-course, but computers have a much harder job. What if we want to
-show the locations on a map, for example? Or find your nearest stop?
-
-There are much better ways to provide the data. This Git repository
-contains each location as a latitude and longitude point, all stored in
-a single [GeoJSON] [geo] file encapsulated in the Open Knowledge
-Foundation's [Data Package format] [pkg]. GitHub allows GeoJSON files to
-be [displayed as a map directly] [ghm] and I've also made a
-quick-and-dirty [full-screen map] [map]. Providing the locations in
-this format makes them more accessible, more visible, and easier to
-analyse.
-
-
-Location accuracy
------------------
-
-None of the locations given by the council are exact, but they vary
-between relatively precise ("SPT site" at Kelvinbridge subway station)
-and fairly vague (somewhere on the half-a-mile-long West Nile Street).
-Where the locations were too vague to plot I used the low-resolution map
-included in the report to try and pinpoint the true locations as best I
-could. I would estimate a longitude/latitude point is at worst no
-further than 200 metres from where the council expects to site the
-station.
+The repo contains each location as a latitude and longitude point, all
+stored in a single [GeoJSON] [geo] file encapsulated in the Open
+Knowledge Foundation's [Data Package format] [pkg]. GitHub allows
+GeoJSON files to be [displayed as a map directly] [ghm] and I've also
+made a [full-screen map] [map]. Providing the locations in this format
+makes them more accessible, more visible, and easier to analyse.
 
 
 Commonwealth Games locations
 ----------------------------
 
-Ten of the 30 stations come with the comment "CG2014 possible MACH
-station location", indicating that these locations are specifically for
-venues being used at the 2014 Commonwealth Games. I don't know if the
-comments indicate anything more than this (i.e. more likely to make it
-past provisional status, only in use during the games, politically
-necessary, etc).
+Six of the 37 stations are temporary locations that will only be in use
+during the 2014 Commonwealth Games. Each of these locations includes the
+property `permanent: false`; all other permanent stations include the
+property `permanent: true`.
 
 
-The locations are provisional
------------------------------
+Location accuracy
+-----------------
 
-In their response to my FOI request Glasgow City Council pointed out in
-a fairly tedious, corporate, manner that the list of locations is
-provisional. Or, in their words, the list is
+While the nearest street address is given for each bike hire location
+it's still not completely clear where exactly the bikes will be sited.
+I've made educated guesses for each one (e.g. picked the nearest large
+empty section of pavement or an existing bike rack) but we should assume
+that the bikes are to be within a 100-metre radius of the longitude and
+latitude provided, rather than at exactly that spot.
+
+In their response to my original FOI request back in December 2013,
+Glasgow City Council pointed out in a fairly tedious, corporate, manner
+that the list of locations is provisional. Or, in their words, the list
+is
 
 > only indicative and no decisions have yet been made as to whether they
 > will, or will not, become a Glasgow mass automated cycle hire (MACH)
@@ -76,6 +65,10 @@ provisional. Or, in their words, the list is
 > starting platform for discussions with the new service provider and
 > once the list has been confirmed then the normal route whereby
 > information is provided to elected members will be followed.
+
+Although council officers have since undertaken site surveys of the
+updated locations I would assume they're still provisional. We'll only
+know for sure once the scheme is up-and-running.
 
 
 The freedom of information request
@@ -105,7 +98,8 @@ though.
 
 
 [map]: http://bl.ocks.org/flother/raw/8185796/
-[rpt]: http://www.glasgow.gov.uk/councillorsandcommittees/submissiondocuments.asp?submissionid=65178
+[oct]: http://www.glasgow.gov.uk/councillorsandcommittees/submissiondocuments.asp?submissionid=65178
+[mar]: http://www.glasgow.gov.uk/councillorsandcommittees/submissiondocuments.asp?submissionid=68243
 [pdf]: http://github.com/flother/glasgow-cycle-hire/raw/master/foi_station_list.pdf
 [geo]: http://geojson.org/
 [pkg]: http://data.okfn.org/standards/data-package
