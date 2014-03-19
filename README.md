@@ -97,7 +97,7 @@ these things can happen — I would have preferred a more detailed reason
 though.
 
 
-[map]: http://bl.ocks.org/flother/raw/8185796/
+[map]: http://flother.github.io/glasgow-cycle-hire/
 [oct]: http://www.glasgow.gov.uk/councillorsandcommittees/submissiondocuments.asp?submissionid=65178
 [mar]: http://www.glasgow.gov.uk/councillorsandcommittees/submissiondocuments.asp?submissionid=68243
 [pdf]: http://github.com/flother/glasgow-cycle-hire/raw/master/foi_station_list.pdf
