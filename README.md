@@ -71,6 +71,18 @@ updated locations I would assume they're still provisional. We'll only
 know for sure once the scheme is up-and-running.
 
 
+Changes between first and second proposals for locations
+--------------------------------------------------------
+
+Two reports from the council have listed proposed locations for bike
+hire stations, and the two lists differ. The first has 30 stations, ten
+of which were to be temporary during the 2014 Commonwealth Games; the
+second has 31 permanent locations and six temporary locations for the
+duration of the games. You can see a [map of the differences between the
+two] [diff] — red icons are the original locations, green are for the
+locations given in the second report.
+
+
 The freedom of information request
 ----------------------------------
 
@@ -104,3 +116,4 @@ though.
 [geo]: http://geojson.org/
 [pkg]: http://data.okfn.org/standards/data-package
 [ghm]: https://github.com/flother/glasgow-cycle-hire/blob/master/stations.geojson
+[diff]: https://github.com/flother/glasgow-cycle-hire/commit/d19d68f763f31e2f5c233b486b0727dae1c4acb1#diff-1
