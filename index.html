@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>Proposed locations for Glasgow’s MACH bike hire scheme (May 2014)</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui">
+    <script src="//api.tiles.mapbox.com/mapbox.js/v1.6.2/mapbox.js"></script>
+    <link href="//api.tiles.mapbox.com/mapbox.js/v1.6.2/mapbox.css" rel="stylesheet">
+    <style>
+      body{margin:0;padding:0}
+      #map{position:absolute;top:0;bottom:0;width:100%}
+    </style>
+  </head>
+  <body>
+    <div id="map"></div>
+    <script>
+      var map = L.mapbox.map("map", "flother.hie0036e", {
+        center: [55.86501, -4.271579],
+        detectRetina: true,
+        minZoom: 12,
+        infoControl: {position: "topleft"}
+      });
+      var stationsLayer = L.mapbox.featureLayer("/glasgow-cycle-hire/stations.geojson");
+      stationsLayer.addTo(map);
+      map.infoControl.addInfo("<a href='https://github.com/flother/glasgow-cycle-hire'>Further infomation</a> on this map");
+
+      var permanentStationIcon = L.icon({
+          iconUrl: "http://a.tiles.mapbox.com/v3/marker/pin-m-bicycle+fe4365.png",
+          iconRetinaUrl: "http://a.tiles.mapbox.com/v3/marker/pin-m-bicycle+fe4365@2x.png",
+          iconSize: [30, 70],
+          iconAnchor: [15, 35],
+          popupAnchor: [0, -35]
+      });
+      var temporaryStationIcon = L.icon({
+          iconUrl: "http://a.tiles.mapbox.com/v3/marker/pin-m-bicycle+fc9d9a.png",
+          iconRetinaUrl: "http://a.tiles.mapbox.com/v3/marker/pin-m-bicycle+fc9d9a@2x.png",
+          iconSize: [30, 70],
+          iconAnchor: [15, 35],
+          popupAnchor: [0, -35]
+      });
+
+      stationsLayer.on("ready", function() {
+        stationsLayer.eachLayer(
+          function(layer) {
+            layer.setIcon(layer.feature.properties.permanent ? permanentStationIcon : temporaryStationIcon);
+            var content = "<strong>" +
+                            layer.feature.properties.title +
+                          "</strong>" +
+                          "<br>" +
+                          layer.feature.properties["nearest-address"] +
+                          (layer.feature.properties.permanent ? "" : "<br><em>Only in use during Commonwealth Games</em>")
+                          ;
+            layer.bindPopup(content);
+          }
+        );
+        //map.fitBounds(stationsLayer.getBounds());
+      });
+
+      stationsLayer.on("mouseover", function(e) { e.layer.openPopup(); });
+      stationsLayer.on("mouseout", function(e) { e.layer.closePopup(); });
+    </script>
+  </body>
+</html>
