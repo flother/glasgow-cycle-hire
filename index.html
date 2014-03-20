@@ -16,10 +16,12 @@
     <script>
       var map = L.mapbox.map("map", "flother.hie0036e", {
         center: [55.86501, -4.271579],
-        detectRetina: true,
-        retinaVersion: "flother.hil8al04",
         minZoom: 12,
-        infoControl: {position: "topleft"}
+        infoControl: {position: "topleft"},
+        tileLayer: {
+          detectRetina: true,
+          retinaVersion: "flother.hil8al04"
+        }
       });
       var stationsLayer = L.mapbox.featureLayer("/glasgow-cycle-hire/stations.geojson");
       stationsLayer.addTo(map);
