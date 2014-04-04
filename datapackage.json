@@ -3,7 +3,7 @@
   "title": "Proposed locations for Glasgow’s MACH bike hire scheme (May 2014)",
   "description": "Longitude and latitude points for the proposed locations of Glasgow's upcoming council-run bike hire stations",
   "version": "1.1.0",
-  "last_modified": "2014-04-04 23:16:32",
+  "last_modified": "2014-04-04 23:35:04",
   "licenses": [{
     "id": "ogl-uk-2.0",
     "name": "Open Government Licence",
@@ -26,7 +26,7 @@
       "path": "stations.geojson",
       "format": "geojson",
       "mediatype": "application/json",
-      "hash": "bc59b1926791a7b80e28b6dbfb226d9b"
+      "hash": "b1f77fff0279456379366d026d42afb7"
     },
     {
       "name": "foi-station-list",

@@ -7,6 +7,7 @@
         "id": 264281,
         "title": "Glasgow Central Station",
         "nearest-address": "107 Hope Street",
+        "racks": 10,
         "ward": "Anderston / City",
         "permanent": true
       },
@@ -24,6 +25,7 @@
         "id": 264283,
         "title": "Waterloo Street",
         "nearest-address": "76 Waterloo Street",
+        "racks": 10,
         "ward": "Anderston / City",
         "permanent": true
       },
@@ -41,6 +43,7 @@
         "id": 264286,
         "title": "Queen Street Railway Station",
         "nearest-address": "1 Dundas Street",
+        "racks": 10,
         "ward": "Anderston / City",
         "permanent": true
       },
@@ -58,6 +61,7 @@
         "id": 264290,
         "title": "Buchanan Street Bus Station",
         "nearest-address": "10 Killermont Street",
+        "racks": 10,
         "ward": "Anderston / City",
         "permanent": true
       },
@@ -75,6 +79,7 @@
         "id": 264292,
         "title": "George Square",
         "nearest-address": "50 West George Street",
+        "racks": 10,
         "ward": "Anderston / City",
         "permanent": true
       },
@@ -92,6 +97,7 @@
         "id": 264293,
         "title": "Merchant Square",
         "nearest-address": "20 Bell Street",
+        "racks": 10,
         "ward": "Anderston / City",
         "permanent": true
       },
@@ -109,6 +115,7 @@
         "id": 264294,
         "title": "St George's Cross",
         "nearest-address": "98 Great Western Road",
+        "racks": 10,
         "ward": "Hillhead",
         "permanent": true
       },
@@ -126,6 +133,7 @@
         "id": 264295,
         "title": "St Enoch Square",
         "nearest-address": "14 St Enoch Square",
+        "racks": 10,
         "ward": "Anderston / City",
         "permanent": true
       },
@@ -143,6 +151,7 @@
         "id": 264296,
         "title": "Glasgow Cathedral",
         "nearest-address": "20 Cathedral Street",
+        "racks": 10,
         "ward": "Anderston / City",
         "permanent": true
       },
@@ -160,6 +169,7 @@
         "id": 264298,
         "title": "Glasgow Green",
         "nearest-address": "82 Templeton Street",
+        "racks": 8,
         "ward": "Calton",
         "permanent": true
       },
@@ -177,6 +187,7 @@
         "id": 264299,
         "title": "Broomielaw",
         "nearest-address": "150 Broomielaw (5 Atlantic Quay)",
+        "racks": 10,
         "ward": "Anderston / City",
         "permanent": true
       },
@@ -194,6 +205,7 @@
         "id": 264300,
         "title": "S.E.C.C",
         "nearest-address": "1 Congress Road",
+        "racks": 8,
         "ward": "Anderston / City",
         "permanent": true
       },
@@ -211,6 +223,7 @@
         "id": 264301,
         "title": "Riverside Museum",
         "nearest-address": "100 Pointhouse Road",
+        "racks": 10,
         "ward": "Anderston / City",
         "permanent": true
       },
@@ -228,6 +241,7 @@
         "id": 264302,
         "title": "Botanic Gardens",
         "nearest-address": "735 Great Western Road",
+        "racks": 5,
         "ward": "Maryhill / Kelvin",
         "permanent": true
       },
@@ -245,6 +259,7 @@
         "id": 264303,
         "title": "Kelvinbridge Subway",
         "nearest-address": "445 Great Western Road",
+        "racks": 8,
         "ward": "Hillhead",
         "permanent": true
       },
@@ -262,6 +277,7 @@
         "id": 264304,
         "title": "Kelvingrove Art Gallery",
         "nearest-address": "1 Kelvingrove Park",
+        "racks": 8,
         "ward": "Anderston / City",
         "permanent": true
       },
@@ -279,6 +295,7 @@
         "id": 264305,
         "title": "Charing Cross Railway Station",
         "nearest-address": "34 Elmbank Crescent",
+        "racks": 8,
         "ward": "Anderston / City",
         "permanent": true
       },
@@ -296,6 +313,7 @@
         "id": 264306,
         "title": "University of Glasgow (West)",
         "nearest-address": "121 University Avenue",
+        "racks": 8,
         "ward": "Hillhead",
         "permanent": true
       },
@@ -313,6 +331,7 @@
         "id": 264308,
         "title": "Mitchell Library",
         "nearest-address": "17 North Street",
+        "racks": null,
         "ward": "Anderston / City",
         "permanent": true
       },
@@ -330,6 +349,7 @@
         "id": 264309,
         "title": "University of Strathclyde (North)",
         "nearest-address": "1 Taylor Street",
+        "racks": 6,
         "ward": "Anderston / City",
         "permanent": true
       },
@@ -347,6 +367,7 @@
         "id": 264316,
         "title": "Bridge Street Subway",
         "nearest-address": "141 Norfolk Street",
+        "racks": 5,
         "ward": "Southside Central",
         "permanent": true
       },
@@ -364,6 +385,7 @@
         "id": 264389,
         "title": "Hillhead Subway",
         "nearest-address": "1 Ashton Road",
+        "racks": null,
         "ward": "Hillhead",
         "permanent": true
       },
@@ -381,6 +403,7 @@
         "id": 264392,
         "title": "Argyle Street Railway Station",
         "nearest-address": "47 Argyle Street",
+        "racks": null,
         "ward": "Anderston / City",
         "permanent": true
       },
@@ -398,6 +421,7 @@
         "id": 266157,
         "title": "Glasgow Caledonian University",
         "nearest-address": "70 Cowcaddens Road",
+        "racks": null,
         "ward": "Anderston / City",
         "permanent": true
       },
@@ -415,6 +439,7 @@
         "id": 266166,
         "title": "Emirates Arena",
         "nearest-address": "1000 London Road",
+        "racks": null,
         "ward": "Calton",
         "permanent": true
       },
@@ -432,6 +457,7 @@
         "id": 266168,
         "title": "Gallery of Modern Art",
         "nearest-address": "Royal Exchange Square",
+        "racks": null,
         "ward": "Anderston / City",
         "permanent": true
       },
@@ -449,6 +475,7 @@
         "id": 266169,
         "title": "Trongate",
         "nearest-address": "30 Saltmarket",
+        "racks": null,
         "ward": "Anderston / City",
         "permanent": true
       },
@@ -466,6 +493,7 @@
         "id": 266170,
         "title": "University of Strathclyde (South)",
         "nearest-address": "130 George Street",
+        "racks": 6,
         "ward": "Anderston / City",
         "permanent": true
       },
@@ -483,6 +511,7 @@
         "id": 266171,
         "title": "University of Glasgow (East)",
         "nearest-address": "264 Woodlands Road",
+        "racks": null,
         "ward": "Hillhead",
         "permanent": true
       },
@@ -500,6 +529,7 @@
         "id": 266218,
         "title": "Partick Interchange",
         "nearest-address": "1 Merkland Court",
+        "racks": null,
         "ward": "Partick West",
         "permanent": true
       },
@@ -517,6 +547,7 @@
         "id": 266220,
         "title": "Glasgow Science Centre",
         "nearest-address": "50 Pacific Quay",
+        "racks": null,
         "ward": "Govan",
         "permanent": true
       },
@@ -534,6 +565,7 @@
         "id": 14,
         "title": "SECC",
         "nearest-address": "10 Congress Way",
+        "racks": null,
         "ward": "Anderston / City",
         "permanent": false
       },
@@ -551,6 +583,7 @@
         "id": 19,
         "title": "Scotstoun Leisure Centre",
         "nearest-address": "84 Victoria Park Drive North",
+        "racks": null,
         "ward": "Partick West",
         "permanent": false
       },
@@ -568,6 +601,7 @@
         "id": 27,
         "title": "Hampden Park",
         "nearest-address": "Holyrood High School",
+        "racks": null,
         "ward": "Langside",
         "permanent": false
       },
@@ -585,6 +619,7 @@
         "id": 29,
         "title": "Tollcross Leisure Centre",
         "nearest-address": "Tollcross Mansion, Tollcross Park",
+        "racks": null,
         "ward": "Shettleston",
         "permanent": false
       },
@@ -602,6 +637,7 @@
         "id": 36,
         "title": "Cathkin Braes MBC",
         "nearest-address": "227 Castlemilk Drive",
+        "racks": null,
         "ward": "Linn",
         "permanent": false
       },
@@ -619,6 +655,7 @@
         "id": 37,
         "title": "Ibrox Stadium",
         "nearest-address": "67 Woodville Street",
+        "racks": null,
         "ward": "Govan",
         "permanent": false
       },
