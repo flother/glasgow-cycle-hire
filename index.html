@@ -51,6 +51,7 @@
                           "</strong>" +
                           "<br>" +
                           layer.feature.properties["nearest-address"] +
+                          (layer.feature.properties.racks ? ("<br>" + layer.feature.properties.racks + " bike racks") : "") +
                           (layer.feature.properties.permanent ? "" : "<br><em>Only in use during Commonwealth Games</em>")
                           ;
             layer.bindPopup(content);
