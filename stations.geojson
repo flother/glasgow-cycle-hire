@@ -4,8 +4,8 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 1,
-        "title": "Glasgow Central station",
+        "id": 264281,
+        "title": "Glasgow Central Station",
         "nearest-address": "107 Hope Street",
         "ward": "Anderston / City",
         "permanent": true
@@ -13,15 +13,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.258785,
-          55.860697
+          -4.2588,
+          55.860733
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "id": 2,
+        "id": 264283,
         "title": "Waterloo Street",
         "nearest-address": "76 Waterloo Street",
         "ward": "Anderston / City",
@@ -30,16 +30,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.263546,
-          55.860613
+          -4.264083,
+          55.860767
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "id": 3,
-        "title": "Glasgow Queen Street station",
+        "id": 264286,
+        "title": "Queen Street Railway Station",
         "nearest-address": "1 Dundas Street",
         "ward": "Anderston / City",
         "permanent": true
@@ -47,16 +47,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.252233,
-          55.861869
+          -4.252283,
+          55.861967
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "id": 4,
-        "title": "Buchanan Bus Station",
+        "id": 264290,
+        "title": "Buchanan Street Bus Station",
         "nearest-address": "10 Killermont Street",
         "ward": "Anderston / City",
         "permanent": true
@@ -64,32 +64,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.25248,
-          55.864979
+          -4.25285,
+          55.865067
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "id": 5,
-        "title": "Glasgow Caledonian University",
-        "nearest-address": "70 Cowcaddens Road",
-        "ward": "Anderston / City",
-        "permanent": true
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.24972,
-          55.866155
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": 6,
+        "id": 264292,
         "title": "George Square",
         "nearest-address": "50 West George Street",
         "ward": "Anderston / City",
@@ -98,15 +81,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.25106,
-          55.861571
+          -4.2494,
+          55.86155
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "id": 7,
+        "id": 264293,
         "title": "Merchant Square",
         "nearest-address": "20 Bell Street",
         "ward": "Anderston / City",
@@ -115,15 +98,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.245331,
-          55.858136
+          -4.245483,
+          55.858167
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "id": 8,
+        "id": 264294,
         "title": "St George's Cross",
         "nearest-address": "98 Great Western Road",
         "ward": "Hillhead",
@@ -132,32 +115,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.269653,
-          55.871525
+          -4.269117,
+          55.871367
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "id": 9,
-        "title": "Glasgow Cathedral",
-        "nearest-address": "20 Cathedral Street",
-        "ward": "Anderston / City",
-        "permanent": true
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.237244,
-          55.863043
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": 10,
+        "id": 264295,
         "title": "St Enoch Square",
         "nearest-address": "14 St Enoch Square",
         "ward": "Anderston / City",
@@ -166,32 +132,32 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.255429,
-          55.857779
+          -4.255117,
+          55.85775
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "id": 11,
-        "title": "Arygle Street Station",
-        "nearest-address": "47 Argyle Street",
+        "id": 264296,
+        "title": "Glasgow Cathedral",
+        "nearest-address": "20 Cathedral Street",
         "ward": "Anderston / City",
         "permanent": true
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.250413,
-          55.857571
+          -4.237467,
+          55.862883
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "id": 12,
+        "id": 264298,
         "title": "Glasgow Green",
         "nearest-address": "82 Templeton Street",
         "ward": "Calton",
@@ -200,15 +166,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.233226,
-          55.849284
+          -4.23375,
+          55.84945
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "id": 13,
+        "id": 264299,
         "title": "Broomielaw",
         "nearest-address": "150 Broomielaw (5 Atlantic Quay)",
         "ward": "Anderston / City",
@@ -217,8 +183,348 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.264546,
-          55.856689
+          -4.26375,
+          55.85665
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 264300,
+        "title": "S.E.C.C",
+        "nearest-address": "1 Congress Road",
+        "ward": "Anderston / City",
+        "permanent": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.287083,
+          55.859133
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 264301,
+        "title": "Riverside Museum",
+        "nearest-address": "100 Pointhouse Road",
+        "ward": "Anderston / City",
+        "permanent": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.305367,
+          55.865683
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 264302,
+        "title": "Botanic Gardens",
+        "nearest-address": "735 Great Western Road",
+        "ward": "Maryhill / Kelvin",
+        "permanent": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.289417,
+          55.87765
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 264303,
+        "title": "Kelvinbridge Subway",
+        "nearest-address": "445 Great Western Road",
+        "ward": "Hillhead",
+        "permanent": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.28035,
+          55.87505
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 264304,
+        "title": "Kelvingrove Art Gallery",
+        "nearest-address": "1 Kelvingrove Park",
+        "ward": "Anderston / City",
+        "permanent": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.28945,
+          55.868283
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 264305,
+        "title": "Charing Cross Railway Station",
+        "nearest-address": "34 Elmbank Crescent",
+        "ward": "Anderston / City",
+        "permanent": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.27005,
+          55.8646
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 264306,
+        "title": "University of Glasgow (West)",
+        "nearest-address": "121 University Avenue",
+        "ward": "Hillhead",
+        "permanent": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2927,
+          55.8728
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 264308,
+        "title": "Mitchell Library",
+        "nearest-address": "17 North Street",
+        "ward": "Anderston / City",
+        "permanent": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2718,
+          55.8648
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 264309,
+        "title": "University of Strathclyde (North)",
+        "nearest-address": "1 Taylor Street",
+        "ward": "Anderston / City",
+        "permanent": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.241,
+          55.862983
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 264316,
+        "title": "Bridge Street Subway",
+        "nearest-address": "141 Norfolk Street",
+        "ward": "Southside Central",
+        "permanent": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.25885,
+          55.8525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 264389,
+        "title": "Hillhead Subway",
+        "nearest-address": "1 Ashton Road",
+        "ward": "Hillhead",
+        "permanent": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.294333,
+          55.874417
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 264392,
+        "title": "Argyle Street Railway Station",
+        "nearest-address": "47 Argyle Street",
+        "ward": "Anderston / City",
+        "permanent": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.249717,
+          55.857567
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 266157,
+        "title": "Glasgow Caledonian University",
+        "nearest-address": "70 Cowcaddens Road",
+        "ward": "Anderston / City",
+        "permanent": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.251367,
+          55.865817
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 266166,
+        "title": "Emirates Arena",
+        "nearest-address": "1000 London Road",
+        "ward": "Calton",
+        "permanent": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.208,
+          55.846367
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 266168,
+        "title": "Gallery of Modern Art",
+        "nearest-address": "Royal Exchange Square",
+        "ward": "Anderston / City",
+        "permanent": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.251917,
+          55.859733
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 266169,
+        "title": "Trongate",
+        "nearest-address": "30 Saltmarket",
+        "ward": "Anderston / City",
+        "permanent": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.24465,
+          55.856083
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 266170,
+        "title": "University of Strathclyde (South)",
+        "nearest-address": "130 George Street",
+        "ward": "Anderston / City",
+        "permanent": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2419,
+          55.860633
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 266171,
+        "title": "University of Glasgow (East)",
+        "nearest-address": "264 Woodlands Road",
+        "ward": "Hillhead",
+        "permanent": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.27795,
+          55.87165
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 266218,
+        "title": "Partick Interchange",
+        "nearest-address": "1 Merkland Court",
+        "ward": "Partick West",
+        "permanent": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.308433,
+          55.86995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 266220,
+        "title": "Glasgow Science Centre",
+        "nearest-address": "50 Pacific Quay",
+        "ward": "Govan",
+        "permanent": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.292517,
+          55.8585
         ]
       }
     },
@@ -242,74 +548,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 15,
-        "title": "S.E.C.C / Armadillo / Hydro Arena",
-        "nearest-address": "1 Congress Road",
-        "ward": "Anderston / City",
-        "permanent": true
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.28705,
-          55.859117
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": 16,
-        "title": "Riverside Museum",
-        "nearest-address": "100 Pointhouse Road",
-        "ward": "Anderston / City",
-        "permanent": true
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.305546,
-          55.865659
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": 17,
-        "title": "Botanic Gardens",
-        "nearest-address": "735 Great Western Road",
-        "ward": "Maryhill / Kelvin",
-        "permanent": true
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.289453,
-          55.877851
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": 18,
-        "title": "Kelvinbridge subway station",
-        "nearest-address": "445 Great Western Road",
-        "ward": "Hillhead",
-        "permanent": true
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.280473,
-          55.874888
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": 19,
         "title": "Scotstoun Leisure Centre",
         "nearest-address": "84 Victoria Park Drive North",
@@ -321,125 +559,6 @@
         "coordinates": [
           -4.337239,
           55.878363
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": 20,
-        "title": "Kelvingrove Art Gallery",
-        "nearest-address": "1 Kelvingrove Park",
-        "ward": "Anderston / City",
-        "permanent": true
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.289399,
-          55.868342
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": 21,
-        "title": "Charing Cross station",
-        "nearest-address": "34 Elmbank Crescent",
-        "ward": "Anderston / City",
-        "permanent": true
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.270071,
-          55.86456
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": 22,
-        "title": "University of Glasgow (West)",
-        "nearest-address": "121 University Avenue",
-        "ward": "Hillhead",
-        "permanent": true
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.292688,
-          55.87282
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": 23,
-        "title": "Partick Interchange",
-        "nearest-address": "1 Merkland Court",
-        "ward": "Partick West",
-        "permanent": true
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.308271,
-          55.869903
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": 24,
-        "title": "University of Strathclyde (North)",
-        "nearest-address": "1 Taylor Street",
-        "ward": "Anderston / City",
-        "permanent": true
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.240857,
-          55.862991
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": 25,
-        "title": "Mitchell Library",
-        "nearest-address": "17 North Street",
-        "ward": "Anderston / City",
-        "permanent": true
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.271917,
-          55.866026
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": 26,
-        "title": "Glasgow Science Centre",
-        "nearest-address": "50 Pacific Quay",
-        "ward": "Govan",
-        "permanent": true
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.292959,
-          55.858432
         ]
       }
     },
@@ -463,23 +582,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 28,
-        "title": "Emirates Area",
-        "nearest-address": "1000 London Road",
-        "ward": "Calton",
-        "permanent": true
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.20911,
-          55.845995
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": 29,
         "title": "Tollcross Leisure Centre",
         "nearest-address": "Tollcross Mansion, Tollcross Park",
@@ -491,108 +593,6 @@
         "coordinates": [
           -4.180142,
           55.846219
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": 30,
-        "title": "Gallery of Modern Art",
-        "nearest-address": "Royal Exchange Square",
-        "ward": "Anderston / City",
-        "permanent": true
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.252034,
-          55.860261
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": 31,
-        "title": "Trongate",
-        "nearest-address": "30 Saltmarket",
-        "ward": "Anderston / City",
-        "permanent": true
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.244676,
-          55.856091
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": 32,
-        "title": "Bridge Street Subway",
-        "nearest-address": "141 Norfolk Street",
-        "ward": "Southside Central",
-        "permanent": true
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.258684,
-          55.851995
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": 33,
-        "title": "University of Strathclyde (South)",
-        "nearest-address": "130 George Street",
-        "ward": "Anderston / City",
-        "permanent": true
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.244919,
-          55.860988
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": 34,
-        "title": "Hillhead subway station",
-        "nearest-address": "1 Ashton Road",
-        "ward": "Hillhead",
-        "permanent": true
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.294365,
-          55.874408
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": 35,
-        "title": "University of Glasgow (East)",
-        "nearest-address": "264 Woodlands Road",
-        "ward": "Hillhead",
-        "permanent": true
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.277297,
-          55.871501
         ]
       }
     },
