@@ -14,18 +14,20 @@
   <body>
     <div id="map"></div>
     <script>
-      var map = L.mapbox.map("map", "flother.hie0036e", {
-        center: [55.86501, -4.271579],
-        minZoom: 12,
-        infoControl: {position: "topleft"},
-        tileLayer: {
-          detectRetina: true,
-          retinaVersion: "flother.hil8al04"
-        }
+      var map = L.mapbox.map("map").setView([55.86501, -4.271579], 13);
+
+      var layers = L.control.layers({
+        "Map": L.mapbox.tileLayer("flother.hie0036e", {detectRetina: true}).addTo(map),
+        "Satellite": L.mapbox.tileLayer("flother.hn8a7j6o", {detectRetina: true})
       });
-      var stationsLayer = L.mapbox.featureLayer("/glasgow-cycle-hire/stations.geojson");
+      layers.addTo(map);
+      layers.setPosition("topleft");
+
+      var stationsLayer = L.mapbox.featureLayer("/stations.geojson");
       stationsLayer.addTo(map);
-      map.infoControl.addInfo("<a href='https://github.com/flother/glasgow-cycle-hire'>Further infomation</a> on this map");
+      map.infoControl.removeFrom(map);
+      var attribution = L.control.attribution({prefix: "Made by Matt Riggott. <a href='https://github.com/flother/glasgow-cycle-hire'>How it was made</a>. Base map from <a href='https://www.mapbox.com/about/maps/'>MapBox and OpenStreetMap</a>"});
+      attribution.addTo(map);
 
       var permanentStationIcon = L.icon({
           iconUrl: "http://a.tiles.mapbox.com/v3/marker/pin-m-bicycle+fe4365.png",
