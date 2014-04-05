@@ -23,7 +23,7 @@
       layers.addTo(map);
       layers.setPosition("topleft");
 
-      var stationsLayer = L.mapbox.featureLayer("/stations.geojson");
+      var stationsLayer = L.mapbox.featureLayer("/glasgow-cycle-hire/stations.geojson");
       stationsLayer.addTo(map);
       map.infoControl.removeFrom(map);
       var attribution = L.control.attribution({prefix: "Made by Matt Riggott. <a href='https://github.com/flother/glasgow-cycle-hire'>How it was made</a>. Base map from <a href='https://www.mapbox.com/about/maps/'>MapBox and OpenStreetMap</a>"});
