@@ -338,8 +338,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.2718,
-          55.8648
+          -4.272062,
+          55.865359
         ]
       }
     },
@@ -392,8 +392,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.294333,
-          55.874417
+          -4.293649,
+          55.87516
         ]
       }
     },
@@ -538,24 +538,6 @@
         "coordinates": [
           -4.308433,
           55.86995
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": 266220,
-        "title": "Glasgow Science Centre",
-        "nearest-address": "50 Pacific Quay",
-        "racks": null,
-        "ward": "Govan",
-        "permanent": true
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.292517,
-          55.8585
         ]
       }
     },
